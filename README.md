@@ -69,6 +69,5 @@ All fiat "tends to zero" and irrespective of whether it's happening by design or
 
 Bitcoin adheres to Occam's Razor. Bitcoin Market needs to follow the same principals in layer one in order to have the same anti-fragility and stability that come with the simplicity. Along with that, this must be no "One" persons project, this can't be mine or anybody else's project. Like Bitcoin, BTM must be anarchic in its behaviour. Built and released. If we can control it then bad actors can too. We have to build it so it can only be changed if everyone agrees to the proposed changes. We have an opportunity to, just like Satoshi, using existing resources, build a system that can help towards saving our world and put us on track to actually reaching Kardashev's level one. For the 1st time in human history we have the capabilities that we need to pull this off. An app on your phone or a node in the corner of your office connects you to potentially the biggest free market system on the planet. 
 
-"Nobody ever complied their way out of totalitarianism" J.F.K. 
 
 BTC = 42
